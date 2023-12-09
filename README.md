@@ -1,7 +1,7 @@
 # Sleep-and-Stress
 My first IoT Project
 
-This uses Mediapipe to detect the structures from camera feed.
+This uses Mediapipe to detect the pose structures from camera feed.
 Using the points and angles we determine and classify it into different positions.
 
 Work in Progress:
