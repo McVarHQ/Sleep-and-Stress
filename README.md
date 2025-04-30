@@ -1,6 +1,7 @@
 # Pose-Based Stress Level Monitoring using MediaPipe (IoT Project)
 
-*(Your Project Logo/Banner Here - Optional)*
+![image](https://github.com/user-attachments/assets/83c92e1b-3824-47c2-a30d-b8bc9cd02de1)
+
 
 ## Overview
 
